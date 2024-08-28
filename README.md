@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💻 Available for hire
+
+📞 [Schedule a meeting](https://cal.com/princejwesley/30min) 
