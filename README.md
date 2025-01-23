@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 💻 Available for hire
 
-Building mountOS (mount object store - a cloud storage based solution), 📞 [Schedule a meeting](https://calendar.app.google/Jri24DFbqyV2rnwY7) with me to know more about it.
+Building [mountOS](https://mountos.app) (mount object store - a cloud storage based solution), 📞 [Schedule a meeting](https://calendar.app.google/Jri24DFbqyV2rnwY7) with me to know more about it.
